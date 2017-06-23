@@ -1,0 +1,8 @@
+stl is library that was made before C++ became standarized that contained many containers, iterators, and algorithms.  
+stdlib is the standarized library in use today
+
+equivalent data structures in the std library (http://www.cplusplus.com/reference/stl/)
+Linked List -> List
+Hash Set -> unordered_set 		(unordered and unique elements)	
+BST -> set				(unique and ordered)
+Hash map -> unordered_map		(unique and unordered)
